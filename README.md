@@ -227,7 +227,9 @@ To check Montoring of the application, open Chrome and navigate to the following
 |:-:|:-:|
 |![Kubernetes Cluster](https://github.com/Divya4242/k8s-AWS-Kops-Ingress/assets/113757574/e399a45d-746f-4d59-98fc-c8529c1f0b6d)|![Kubernetes Nodes](https://github.com/Divya4242/k8s-AWS-Kops-Ingress/assets/113757574/163203a6-6b38-4f85-9ba0-8b25f3d07962)|
 
-![image](https://github.com/Divya4242/k8s-AWS-Kops-Ingress/assets/113757574/ac3575b8-58ca-496e-a57e-0c5432890a43)
+|Kubernetes Deployment|Website Photo|
+|:-:|:-:|
+|![Kubernetes Deployment](https://github.com/Divya4242/k8s-AWS-Kops-Ingress/assets/113757574/ac3575b8-58ca-496e-a57e-0c5432890a43)|![Webite Photot](https://github.com/user-attachments/assets/6c984c7d-ad8d-4430-882e-9fc1c44d032c)|
 
 
 ## Cleaning Up
