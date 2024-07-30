@@ -1,6 +1,6 @@
 # Full-stack application deployed on Kubernetes using kops on AWS
 
-This guide provides a step-by-step process to create a Kubernetes cluster on AWS using [Kops](https://kops.sigs.k8s.io/). 
+In this guide, you'll learn about the step-by-step process to create a Kubernetes cluster on AWS using [Kops](https://kops.sigs.k8s.io/). 
 This project demonstrates a Kubernetes setup with a full-stack application consisting of a [ReactJS](https://react.dev/) frontend, [NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) backend, and [MongoDB](https://www.mongodb.com/) database. The project also includes a robust monitoring system using [Prometheus](https://prometheus.io/), [Grafana](http://grafana.org/), [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics), and [AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/).
 
 ![kops](https://github.com/Divya4242/k8s-AWS-Kops-Ingress/assets/113757574/abb76432-0b97-4f1a-8270-3428bcd4d7ed)
