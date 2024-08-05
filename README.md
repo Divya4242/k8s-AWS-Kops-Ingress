@@ -72,10 +72,10 @@ kops create cluster \
     --zones=<your-availability-zone> \
     --node-count=1 \
     --node-size=t2.medium \
-	  --node-volume-size=15 \
+    --node-volume-size=15 \
     --control-plane-count=1 \
     --control-plane-size=t2.medium \
-	  --control-plane-volume-size=15 \
+    --control-plane-volume-size=15 \
     --dns-zone=<your-domain>
 ```
 
